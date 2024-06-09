@@ -1,1 +1,1 @@
-check 1
+repo has been created for recording the process of reminding Python insights from the scratch
